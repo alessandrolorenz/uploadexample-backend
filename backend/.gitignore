@@ -1,6 +1,0 @@
-node_modules
-
-.env
-tpm/uploads/*
-!tpm/uploads/.gitkeep
-
